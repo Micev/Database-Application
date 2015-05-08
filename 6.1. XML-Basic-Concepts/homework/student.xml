@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students xmlns="urn:students">
+  <student>
+    <name>Ivan Ivanov</name>
+    <gender>male</gender>
+    <birth-date>2015-04-12</birth-date>
+    <phone-number></phone-number>
+    <email>ivan@gmail.com</email>
+    <university>SoftUni</university>
+    <specialty>Basic Developer</specialty>
+    <faculty-number></faculty-number>
+    <exams>
+      <exam>
+        <name>C# Basic</name>
+        <date-taken>2014-05-15</date-taken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <name>Java</name>
+        <date-taken>2014-08-25</date-taken>
+        <grade>5</grade>
+      </exam>
+    </exams>
+    <endorsements>
+      <author>Nakov</author>
+      <author-email>nakov@nakov.bg</author-email>
+      <endorsement-date>2015-07-23</endorsement-date>
+      <endorsement-text>Apply</endorsement-text>
+    </endorsements>
+  </student>
+</students>
