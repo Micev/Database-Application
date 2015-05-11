@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>The King of Limbs</name>
+    <artist>Radiohead</artist>
+    <year>2011</year>
+    <producer>Nigel Godrich</producer>
+    <price>39.99</price>
+    <songs>
+      <song title="Bloom" duration="5:15"/>
+      <song title="Morning Mr Magpie" duration="4:41"/>
+      <song title="Little by Little" duration="4:27"/>
+      <song title="Feral" duration="3:13"/>
+      <song title="Lotus Flower" duration="5:01"/>
+      <song title="Codex" duration="4:47"/>
+      <song title="Give Up the Ghost" duration="4:50"/>
+      <song title="Separator" duration="5:20"/>
+    </songs>
+  </album>
+  <album>
+    <name>OK Computer</name>
+    <artist>Radiohead</artist>
+    <year>1997</year>
+    <producer>Capitol Records</producer>
+    <price>19.99</price>
+    <songs>
+      <song title="Airbag"  duration="4:44"/>
+      <song title="Paranoid Android"  duration="6:23"/>
+      <song title="Subterranean Homesick Alien"  duration="4:27"/>
+      <song title="Exit Music (For a Film)"  duration="4:24"/>
+      <song title="Let Down"  duration="4:59"/>
+      <song title="Karma Police"  duration="4:21"/>
+      <song title="Fitter Happier"  duration="1:57"/>
+      <song title="Electioneering"  duration="3:50"/>
+      <song title="Climbing Up the Walls"  duration="4:45"/>
+      <song title="No Surprises"  duration="3:48"/>
+      <song title="Lucky"  duration="4:19"/>
+      <song title="The Tourist"  duration="5:24"/>
+    </songs>
+  </album>
+  <album>
+    <name>Dummy</name>
+    <artist>Portishead</artist>
+    <year>1994</year>
+    <producer>Mercury Music</producer>
+    <price>17.99</price>
+    <songs>
+      <song title="Mysterons"  duration="5:02"/>
+      <song title="Sour Times"  duration="4:11"/>
+      <song title="Strangers"  duration="3:55"/>
+      <song title="It Could Be Sweet"  duration="4:16"/>
+      <song title="Wandering Star"  duration="4:51"/>
+      <song title="It's a Fire"  duration="3:49"/>
+      <song title="Numb"  duration="3:54"/>
+      <song title="Roads"  duration="5:02"/>
+      <song title="Pedestal"  duration="3:39"/>
+      <song title="Biscuit"  duration="5:01"/>
+      <song title="Glory Box"  duration="5:06"/>
+    </songs>
+  </album>
+  <album>
+    <name>Third</name>
+    <artist>Portishead</artist>
+    <year>2008</year>
+    <producer>Island Records</producer>
+    <price>25.00</price>
+    <songs>
+      <song title="Silence"  duration="4:58"/>
+      <song title="Hunter"  duration="3:57"/>
+      <song title="Nylon Smile"  duration="3:16"/>
+      <song title="The Rip"  duration="4:29"/>
+      <song title="Plastic"  duration="3:27"/>
+      <song title="We Carry On"  duration="6:27"/>
+      <song title="Deep Water"  duration="1:31"/>
+      <song title="Machine Gun"  duration="4:43"/>
+      <song title="Small"  duration="6:45"/>
+      <song title="Magic Doors"  duration="3:32"/>
+      <song title="Threads"  duration="5:45"/>
+    </songs>
+  </album>
+  <album>
+    <name>Nevermind</name>
+    <artist>Nirvana</artist>
+    <year>1991</year>
+    <producer>Butch Vig</producer>
+    <price>33.00</price>
+    <songs>
+      <song title="Smells Like Teen Spirit"  duration="4:58"/>
+      <song title="In Bloom"  duration="2:57"/>
+      <song title="Come as You Are"  duration="3:46"/>
+      <song title="Breed"  duration="3:34"/>
+      <song title="Lithium"   duration="2:47"/>
+      <song title="Polly"   duration="5:29"/>
+      <song title="Drain You"  duration="2:11"/>
+      <song title="Lounge Act"  duration="4:43"/>
+      <song title="Stay Away"  duration="6:45"/>
+      <song title="On a Plain"  duration="3:32"/>
+      <song title="Something in the Way"  duration="5:45"/>
+    </songs>
+  </album>
+  <album>
+    <name>Californication</name>
+    <artist>Red Hot Chili Peppers</artist>
+    <year>1999</year>
+    <producer>Rick Rubin</producer>
+    <price>9.99</price>
+    <songs>
+      <song title="Around the World"    duration="4:58"/>
+      <song title="Parallel Universe"   duration="2:57"/>
+      <song title="Scar Tissue"  duration="3:46"/>
+      <song title="Otherside"  duration="3:34"/>
+      <song title="Get on Top"   duration="2:47"/>
+      <song title="Californication"    duration="5:29"/>
+      <song title="Easily"   duration="2:11"/>
+      <song title="Porcelain"   duration="4:43"/>
+      <song title="Emit Remmus"   duration="6:45"/>
+      <song title="I Like Dirt"  duration="3:32"/>
+      <song title="Savior"  duration="5:45"/>
+      <song title="Purple Stain"   duration="5:45"/>
+      <song title="Right on Time"  duration="5:45"/>
+      <song title="Road Trippin'" duration="5:45"/>
+    </songs>
+  </album>
+</albums>
